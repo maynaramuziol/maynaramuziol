@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 😄 insta: Maynara Muziol
 - ⚡ Fun fact: eu gosto de animais ...
 
-- 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maynaramuziol)
